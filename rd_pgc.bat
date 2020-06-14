@@ -1,0 +1,1 @@
+Powershell.exe mstsc /console C:\code\rdc\pgc.rdp

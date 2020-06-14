@@ -1,0 +1,2 @@
+tasklist /FI "IMAGENAME eq chrome.exe" 2>NUL | find /I /N "myapp.exe">NUL
+if "%ERRORLEVEL%"=="0" echo Program is running

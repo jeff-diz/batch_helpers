@@ -1,0 +1,8 @@
+set DEVICE_ADDRESS=E8:07:BF:2A:A9:48
+set SEVICE_UUID1=111E
+set SEVICE_UUID2=110E
+
+btcom -b"E8:07:BF:2A:A9:48" -s111E -r
+btcom -b"E8:07:BF:2A:A9:48" -s110E -r
+
+cmd /k

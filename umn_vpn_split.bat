@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Cisco\Cisco AnyConnect Secure Mobility Client\vpncli.exe" connect "UMN - Split Tunnel - General Access VPN Pool"

@@ -1,0 +1,1 @@
+netsh wlan connect ssid=CenturyLink5584_5G name=CenturyLink5584_5G
